@@ -1,0 +1,2672 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:19:40.675Z",
+        "line": 6,
+        "name": "Test Al Kaif flat scenario",
+        "description": "",
+        "id": "test-al-kaif-feature;test-al-kaif-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5731431400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open Al Kaif flat page",
+            "match": {
+              "location": "sTepDefinition.Al_Kaif.i_open_al_kaif_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 160356900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "change the picture for Al Kaif flat",
+            "match": {
+              "location": "sTepDefinition.Al_Kaif.change_the_picture_for_al_kaif_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 109704500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify text for Al Kaif flat",
+            "match": {
+              "location": "sTepDefinition.Al_Kaif.i_verify_text_for_al_kaif_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 291221700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I verify monthly mortgage payment for Al Kaif flat",
+            "match": {
+              "location": "sTepDefinition.Al_Kaif.i_verify_monthly_mortgage_payment_for_al_kaif_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 825774900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "close the browser for Al Kaif flat",
+            "match": {
+              "location": "sTepDefinition.Al_Kaif.close_the_browser_for_al_kaif_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Al Kaif feature",
+    "description": "",
+    "id": "test-al-kaif-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/ALKaif.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:19:47.900Z",
+        "line": 5,
+        "name": "Test alif ail flat scenario",
+        "description": "",
+        "id": "test-alif-ail-feature;test-alif-ail-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3781764600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open alif ail flat page",
+            "match": {
+              "location": "sTepDefinition.Alif_Ail.i_open_alif_ail_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141620700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "change the picture for alif ail flat",
+            "match": {
+              "location": "sTepDefinition.Alif_Ail.change_the_picture_for_alif_ail_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67823800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify text for alif ail flat",
+            "match": {
+              "location": "sTepDefinition.Alif_Ail.i_verify_text_for_alif_ail_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 531054600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify monthly mortgage payment for alif ail flat",
+            "match": {
+              "location": "sTepDefinition.Alif_Ail.i_verify_monthly_mortgage_payment_for_alif_ail_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 720794800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for alif ail flat",
+            "match": {
+              "location": "sTepDefinition.Alif_Ail.close_the_browser_for_alif_ail_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test alif ail feature",
+    "description": "",
+    "id": "test-alif-ail-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Alif_Ail.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:19:53.181Z",
+        "line": 4,
+        "name": "Test Arsi Nagar Bosila scenario",
+        "description": "",
+        "id": "test-arsi-nagar-bosila-feature;test-arsi-nagar-bosila-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3856429800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Arsi Nagar Bosila",
+            "match": {
+              "location": "sTepDefinition.ArsiNagarBosila.i_open_arsi_nagar_bosila()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 143616800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify text in Arsi Nagar Bosila",
+            "match": {
+              "location": "sTepDefinition.ArsiNagarBosila.i_verify_text_in_arsi_nagar_bosila()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 543545900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify monthly mortgage payment for Arsi Nagar Bosila",
+            "match": {
+              "location": "sTepDefinition.ArsiNagarBosila.i_verify_monthly_mortgage_payment_for_arsi_nagar_bosila()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 981374600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I validate leave a reply for Arsi Nagar Bosila",
+            "match": {
+              "location": "sTepDefinition.ArsiNagarBosila.i_validate_leave_a_reply_for_arsi_nagar_bosila()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 782913000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Arsi Nagar Bosila",
+            "match": {
+              "location": "sTepDefinition.ArsiNagarBosila.close_the_browser_for_arsi_nagar_bosila()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Arsi Nagar Bosila feature",
+    "description": "",
+    "id": "test-arsi-nagar-bosila-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/ArsiNagarBosila.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:19:59.519Z",
+        "line": 6,
+        "name": "Test BDDL Reaz Bag flat scenario",
+        "description": "",
+        "id": "test-bddl-reaz-bag-feature;test-bddl-reaz-bag-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4851394100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open BDDL Reaz Bag flat page",
+            "match": {
+              "location": "sTepDefinition.ReazBagBDDL.i_open_bddl_reaz_bag_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 150739200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "change the picture for BDDL Reaz Bag flat",
+            "match": {
+              "location": "sTepDefinition.ReazBagBDDL.change_the_picture_for_bddl_reaz_bag_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41850400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify text for BDDL Reaz Bag flat",
+            "match": {
+              "location": "sTepDefinition.ReazBagBDDL.i_verify_text_for_bddl_reaz_bag_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 305183000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I verify monthly mortgage payment for BDDL Reaz Bag flat",
+            "match": {
+              "location": "sTepDefinition.ReazBagBDDL.i_verify_monthly_mortgage_payment_for_bddl_reaz_bag_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 724934000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "close the browser for BDDL Reaz Bag flat",
+            "match": {
+              "location": "sTepDefinition.ReazBagBDDL.close_the_browser_for_bddl_reaz_bag_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test BDDL Reaz Bag feature",
+    "description": "",
+    "id": "test-bddl-reaz-bag-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BDDL_ReazBag.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:20:05.619Z",
+        "line": 4,
+        "name": "Test Banani Lake apartment scenario",
+        "description": "",
+        "id": "test-banani-lake-apartment-feature;test-banani-lake-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3885161800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.i_open_banani_lake_apartment()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 175530400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.change_the_picture_for_banani_lake_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99733600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text in Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.i_verify_text_in_banani_lake_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 760965700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.i_verify_monthly_mortgage_payment_for_banani_lake_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1042210000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate leave a reply for Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.i_validate_leave_a_reply_for_banani_lake_apartment()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 756734200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for Banani Lake apartment",
+            "match": {
+              "location": "sTepDefinition.BananiLakeApartment.close_the_browser_for_banani_lake_apartment()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Banani Lake apartment feature",
+    "description": "",
+    "id": "test-banani-lake-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BananiLakeApartment.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:20:12.365Z",
+        "line": 4,
+        "name": "Test Banani Ready flat scenario",
+        "description": "",
+        "id": "test-banani-ready-flat-feature;test-banani-ready-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4040399200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Banani Ready flat page",
+            "match": {
+              "location": "sTepDefinition.BananiReadyFlat.i_open_banani_ready_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 144607800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Banani Ready flat",
+            "match": {
+              "location": "sTepDefinition.BananiReadyFlat.change_the_picture_for_banani_ready_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 86767300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Banani Ready flat",
+            "match": {
+              "location": "sTepDefinition.BananiReadyFlat.i_verify_text_for_banani_ready_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 749993900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Banani Ready flat",
+            "match": {
+              "location": "sTepDefinition.BananiReadyFlat.i_verify_monthly_mortgage_payment_for_banani_ready_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1425090600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Banani Ready flat",
+            "match": {
+              "location": "sTepDefinition.BananiReadyFlat.close_the_browser_for_banani_ready_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Banani Ready flat feature",
+    "description": "",
+    "id": "test-banani-ready-flat-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BananiReadyFlat.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:20:18.831Z",
+        "line": 4,
+        "name": "Test commercial building scenario",
+        "description": "",
+        "id": "test-commercial-building-feature;test-commercial-building-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3902563000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open commercial building page",
+            "match": {
+              "location": "sTepDefinition.Commercial.i_open_commercial_building_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 147904700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for commercial building",
+            "match": {
+              "location": "sTepDefinition.Commercial.change_the_picture_for_commercial_building()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30892400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for commercial building",
+            "match": {
+              "location": "sTepDefinition.Commercial.i_verify_text_for_commercial_building()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 526165600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for commercial building",
+            "match": {
+              "location": "sTepDefinition.Commercial.i_verify_monthly_mortgage_payment_for_commercial_building()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 718300200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for commercial building",
+            "match": {
+              "location": "sTepDefinition.Commercial.close_the_browser_for_commercial_building()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test commercial building feature",
+    "description": "",
+    "id": "test-commercial-building-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Commercial.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:20:24.177Z",
+        "line": 4,
+        "name": "Test dreamway Icon tower scenario",
+        "description": "",
+        "id": "test-dreamway-icon-tower-feature;test-dreamway-icon-tower-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22668294100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open dreamway Icon tower page",
+            "match": {
+              "location": "sTepDefinition.DreamwayIcon.i_open_dreamway_icon_tower_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 120002500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for dreamway Icon tower",
+            "match": {
+              "location": "sTepDefinition.DreamwayIcon.change_the_picture_for_dreamway_icon_tower()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74240100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for dreamway Icon tower",
+            "match": {
+              "location": "sTepDefinition.DreamwayIcon.i_verify_text_for_dreamway_icon_tower()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 319872800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for dreamway Icon tower",
+            "match": {
+              "location": "sTepDefinition.DreamwayIcon.i_verify_monthly_mortgage_payment_for_dreamway_icon_tower()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 765254400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for dreamway Icon tower",
+            "match": {
+              "location": "sTepDefinition.DreamwayIcon.close_the_browser_for_dreamway_icon_tower()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test dreamway Icon tower feature",
+    "description": "",
+    "id": "test-dreamway-icon-tower-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/DreamwayIcon.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:20:48.140Z",
+        "line": 4,
+        "name": "Test Eldorado apartment scenario",
+        "description": "",
+        "id": "test-eldorado-apartment-feature;test-eldorado-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13750018200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Eldorado apartment page",
+            "match": {
+              "location": "sTepDefinition.EldoradoApartment.i_open_eldorado_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 120843600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Eldorado apartment",
+            "match": {
+              "location": "sTepDefinition.EldoradoApartment.change_the_picture_for_eldorado_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31671400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Eldorado apartment",
+            "match": {
+              "location": "sTepDefinition.EldoradoApartment.i_verify_text_for_eldorado_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 324260300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Eldorado apartment",
+            "match": {
+              "location": "sTepDefinition.EldoradoApartment.i_verify_monthly_mortgage_payment_for_eldorado_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 818653000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Eldorado apartment",
+            "match": {
+              "location": "sTepDefinition.EldoradoApartment.close_the_browser_for_eldorado_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Eldorado apartment feature",
+    "description": "",
+    "id": "test-eldorado-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/EldoradoApartment.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:03.200Z",
+        "line": 5,
+        "name": "Test find home scenario",
+        "description": "",
+        "id": "test-find-your-home-feature;test-find-home-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4679251200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open buyrentbd website",
+            "match": {
+              "location": "sTepDefinition.FindHome.i_open_buyrentbd_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1117344900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I validate all the find your home option",
+            "match": {
+              "location": "sTepDefinition.FindHome.i_validate_all_the_find_your_home_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 719966600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I close the browser",
+            "match": {
+              "location": "sTepDefinition.FindHome.i_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test find your home feature",
+    "description": "",
+    "id": "test-find-your-home-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/FindHome.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:09.731Z",
+        "line": 4,
+        "name": "Test footer scenario",
+        "description": "",
+        "id": "test-footer-feature;test-footer-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3793834700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open website for footer",
+            "match": {
+              "location": "sTepDefinition.Footer.i_open_website_for_footer()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33909500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify property type",
+            "match": {
+              "location": "sTepDefinition.Footer.i_verify_property_type()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 27925100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "recent posts",
+            "match": {
+              "location": "sTepDefinition.Footer.recent_posts()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31915100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "categories",
+            "match": {
+              "location": "sTepDefinition.Footer.categories()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 26926600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "contract info",
+            "match": {
+              "location": "sTepDefinition.Footer.contract_info()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 709690400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close website for footer check",
+            "match": {
+              "location": "sTepDefinition.Footer.close_website_for_footer_check()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test footer feature",
+    "description": "",
+    "id": "test-footer-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Footer.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:14.376Z",
+        "line": 5,
+        "name": "Test BDDL gold place flat scenario",
+        "description": "",
+        "id": "test-bddl-gold-place-feature;test-bddl-gold-place-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14512633400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open BDDL gold place flat page",
+            "match": {
+              "location": "sTepDefinition.Gold_Place.i_open_bddl_gold_place_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 121825500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "change the picture for BDDL gold place flat",
+            "match": {
+              "location": "sTepDefinition.Gold_Place.change_the_picture_for_bddl_gold_place_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 46753600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify text for BDDL gold place flat",
+            "match": {
+              "location": "sTepDefinition.Gold_Place.i_verify_text_for_bddl_gold_place_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329580000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify monthly mortgage payment for BDDL gold place flat",
+            "match": {
+              "location": "sTepDefinition.Gold_Place.i_verify_monthly_mortgage_payment_for_bddl_gold_place_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 704309600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for BDDL gold place flat",
+            "match": {
+              "location": "sTepDefinition.Gold_Place.close_the_browser_for_bddl_gold_place_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test BDDL gold place feature",
+    "description": "",
+    "id": "test-bddl-gold-place-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/GoldPlace.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:30.111Z",
+        "line": 4,
+        "name": "Test Janata Housing scenario",
+        "description": "",
+        "id": "test-janata-housing-feature;test-janata-housing-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4464034300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.i_open_janata_housing()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 152590800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.change_the_picture_for_janata_housing()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 83776000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text in Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.i_verify_text_in_janata_housing()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 358042700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.i_verify_monthly_mortgage_payment_for_janata_housing()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1001320500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate leave a reply for Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.i_validate_leave_a_reply_for_janata_housing()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 722820800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for Janata Housing",
+            "match": {
+              "location": "sTepDefinition.JanataHousing.close_the_browser_for_janata_housing()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Janata Housing feature",
+    "description": "",
+    "id": "test-janata-housing-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/JanataHousing.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:36.908Z",
+        "line": 4,
+        "name": "Test landing page scenario",
+        "description": "",
+        "id": "test-landing-page-text-feature;test-landing-page-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4224324300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open buyrentd homepage",
+            "match": {
+              "location": "sTepDefinition.LandingPageText.i_open_buyrentd_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 38886900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify vission text",
+            "match": {
+              "location": "sTepDefinition.LandingPageText.i_verify_vission_text()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 29917600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "mission text",
+            "match": {
+              "location": "sTepDefinition.LandingPageText.mission_text()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1232703000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I close the website",
+            "match": {
+              "location": "sTepDefinition.LandingPageText.i_close_the_website()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test landing page text feature",
+    "description": "",
+    "id": "test-landing-page-text-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/LandingPageText.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:42.447Z",
+        "line": 5,
+        "name": "Test latest news scenario",
+        "description": "",
+        "id": "test-latest-news-in-home-page-feature;test-latest-news-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3944989700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open the buyrebtbd homepage news",
+            "match": {
+              "location": "sTepDefinition.LatestNews.i_open_the_buyrebtbd_homepage_news()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33267200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify latest news text",
+            "match": {
+              "location": "sTepDefinition.LatestNews.i_verify_latest_news_text()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 29248700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "verify text for realestate housing association",
+            "match": {
+              "location": "sTepDefinition.LatestNews.verify_text_for_realestate_housing_association()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36317500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "The ultimate real estate",
+            "match": {
+              "location": "sTepDefinition.LatestNews.the_ultimate_real_estate()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 33150000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I verify rent vs buy",
+            "match": {
+              "location": "sTepDefinition.LatestNews.i_verify_rent_vs_buy()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 722958600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "close the website after latest verification done",
+            "match": {
+              "location": "sTepDefinition.LatestNews.close_the_website_after_latest_verification_done()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test latest news in home page feature",
+    "description": "",
+    "id": "test-latest-news-in-home-page-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/LatestNews.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:47.267Z",
+        "line": 4,
+        "name": "Test let us call you scenario",
+        "description": "",
+        "id": "test-let-us-call-you-feature;test-let-us-call-you-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3827130800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open website",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.i_open_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 180516100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter name",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.i_enter_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 195484400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "email",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.email()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 94752400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "phone number",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.phone_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 211421400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "type message",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.type_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 65823700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I validate the submit button",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.i_validate_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 783693600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "close the webpage",
+            "match": {
+              "location": "sTepDefinition.LetUsCallYou.close_the_webpage()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test let us call you feature",
+    "description": "",
+    "id": "test-let-us-call-you-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/LetUSCallYou.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:52.641Z",
+        "line": 4,
+        "name": "Test BDDL Lily flat scenario",
+        "description": "",
+        "id": "test-bddl-lily-feature;test-bddl-lily-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4662456500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open BDDL Lily flat page",
+            "match": {
+              "location": "sTepDefinition.BDDL_Lily.i_open_bddl_lily_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 169543800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for BDDL Lily flat",
+            "match": {
+              "location": "sTepDefinition.BDDL_Lily.change_the_picture_for_bddl_lily_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 43881600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for BDDL Lily flat",
+            "match": {
+              "location": "sTepDefinition.BDDL_Lily.i_verify_text_for_bddl_lily_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 466751100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for BDDL Lily flat",
+            "match": {
+              "location": "sTepDefinition.BDDL_Lily.i_verify_monthly_mortgage_payment_for_bddl_lily_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 777822300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for BDDL Lily flat",
+            "match": {
+              "location": "sTepDefinition.BDDL_Lily.close_the_browser_for_bddl_lily_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test BDDL Lily feature",
+    "description": "",
+    "id": "test-bddl-lily-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/LilyBDDL.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:21:58.778Z",
+        "line": 4,
+        "name": "Test Max ADN Apartment scenario",
+        "description": "",
+        "id": "test-max-adn-apartment-feature;test-max-adn-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8079728100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Max ADN Apartment page",
+            "match": {
+              "location": "sTepDefinition.MaxADN.i_open_max_adn_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 178520700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Max ADN Apartment",
+            "match": {
+              "location": "sTepDefinition.MaxADN.change_the_picture_for_max_adn_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37898600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Max ADN Apartment",
+            "match": {
+              "location": "sTepDefinition.MaxADN.i_verify_text_for_max_adn_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 367017800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Max ADN Apartment",
+            "match": {
+              "location": "sTepDefinition.MaxADN.i_verify_monthly_mortgage_payment_for_max_adn_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 808226100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Max ADN Apartment",
+            "match": {
+              "location": "sTepDefinition.MaxADN.close_the_browser_for_max_adn_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Max ADN Apartment feature",
+    "description": "",
+    "id": "test-max-adn-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/MaxADN.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:08.267Z",
+        "line": 4,
+        "name": "Test North Breeze scenario",
+        "description": "",
+        "id": "title-north-breeze-feature;test-north-breeze-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3822547700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open North Breeze page",
+            "match": {
+              "location": "sTepDefinition.NorthBreeze.i_open_north_breeze_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 65822400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify text in North Breeze",
+            "match": {
+              "location": "sTepDefinition.NorthBreeze.i_verify_text_in_north_breeze()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 383969900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify monthly mortgage payment for North Breeze",
+            "match": {
+              "location": "sTepDefinition.NorthBreeze.i_verify_monthly_mortgage_payment_for_north_breeze()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 960429900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I validate leave a reply for North Breeze",
+            "match": {
+              "location": "sTepDefinition.NorthBreeze.i_validate_leave_a_reply_for_north_breeze()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 728502000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for North Breeze",
+            "match": {
+              "location": "sTepDefinition.NorthBreeze.close_the_browser_for_north_breeze()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Title North Breeze feature",
+    "description": "",
+    "id": "title-north-breeze-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/NorthBreeze.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:14.250Z",
+        "line": 4,
+        "name": "Test queen haque apartment scenario",
+        "description": "",
+        "id": "test-queen-haque-apartment-feature;test-queen-haque-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3687686300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open queen haque apartment page",
+            "match": {
+              "location": "sTepDefinition.QueenHaque.i_open_queen_haque_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 131646900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for queen haque apartment",
+            "match": {
+              "location": "sTepDefinition.QueenHaque.change_the_picture_for_queen_haque_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59839300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for queen haque apartment",
+            "match": {
+              "location": "sTepDefinition.QueenHaque.i_verify_text_for_queen_haque_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 536564500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for queen haque apartment",
+            "match": {
+              "location": "sTepDefinition.QueenHaque.i_verify_monthly_mortgage_payment_for_queen_haque_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 699572700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for queen haque apartment",
+            "match": {
+              "location": "sTepDefinition.QueenHaque.close_the_browser_for_queen_haque_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test queen haque apartment feature",
+    "description": "",
+    "id": "test-queen-haque-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/QueenHaque.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:19.381Z",
+        "line": 4,
+        "name": "Test three bed ready apartment scenario",
+        "description": "",
+        "id": "test-three-bed-ready-apartment-feature;test-three-bed-ready-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4523679900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open three bed ready apartment page",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.i_open_three_bed_ready_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 165664000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.change_the_picture()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50862900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.i_verify_text()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 341088500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.i_verify_monthly_mortgage_payment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 920535700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate leave a reply",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.i_validate_leave_a_reply()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 735604800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser",
+            "match": {
+              "location": "sTepDefinition.ReadyApartment.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test three bed ready apartment feature",
+    "description": "",
+    "id": "test-three-bed-ready-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/ReadyApartment.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:26.139Z",
+        "line": 4,
+        "name": "Test ready flat scenario",
+        "description": "",
+        "id": "test-ready-flat-feature;test-ready-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3600001900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open ready flat page",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.i_open_ready_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149512400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for ready flat",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.change_the_picture_for_ready_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99732700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text in ready flat",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.i_verify_text_in_ready_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 543547300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for ready flat",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.i_verify_monthly_mortgage_payment_for_ready_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 809832800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate leave a reply for ready flat",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.i_validate_leave_a_reply_for_ready_flat()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 718540700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for ready flat",
+            "match": {
+              "location": "sTepDefinition.ReadyFlat.close_the_browser_for_ready_flat()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test ready flat feature",
+    "description": "",
+    "id": "test-ready-flat-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/ReadyFlat.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:32.076Z",
+        "line": 4,
+        "name": "Test Rossella flat scenario",
+        "description": "",
+        "id": "test-rossella-apartment-feature;test-rossella-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4078755300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open BDDL Rossella flat page",
+            "match": {
+              "location": "sTepDefinition.RossellaBDDL.i_open_bddl_rossella_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 197471400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for BDDL Rossella flat",
+            "match": {
+              "location": "sTepDefinition.RossellaBDDL.change_the_picture_for_bddl_rossella_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 196475900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for BDDL Rossella flat",
+            "match": {
+              "location": "sTepDefinition.RossellaBDDL.i_verify_text_for_bddl_rossella_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 445806900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for BDDL Rossella flat",
+            "match": {
+              "location": "sTepDefinition.RossellaBDDL.i_verify_monthly_mortgage_payment_for_bddl_rossella_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1566925900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for BDDL Rossella flat",
+            "match": {
+              "location": "sTepDefinition.RossellaBDDL.close_the_browser_for_bddl_rossella_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Rossella apartment feature",
+    "description": "",
+    "id": "test-rossella-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/RossellaBDDL.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:38.577Z",
+        "line": 4,
+        "name": "Test south asian flat scenario",
+        "description": "",
+        "id": "test-south-asian-feature;test-south-asian-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3666884700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open south asian flat page",
+            "match": {
+              "location": "sTepDefinition.South_Asian.i_open_south_asian_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 42130800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify text for south asian flat",
+            "match": {
+              "location": "sTepDefinition.South_Asian.i_verify_text_for_south_asian_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 683332200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify monthly mortgage payment for south asian flat",
+            "match": {
+              "location": "sTepDefinition.South_Asian.i_verify_monthly_mortgage_payment_for_south_asian_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 713842100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "close the browser for south asian flat",
+            "match": {
+              "location": "sTepDefinition.South_Asian.close_the_browser_for_south_asian_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test south asian feature",
+    "description": "",
+    "id": "test-south-asian-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/SouthAsian.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:43.697Z",
+        "line": 4,
+        "name": "Test BDDL Sufia flat scenario",
+        "description": "",
+        "id": "test-bddl-sufia-feature;test-bddl-sufia-flat-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3541148600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open BDDL Sufia flat page",
+            "match": {
+              "location": "sTepDefinition.Sufia_BDDL.i_open_bddl_sufia_flat_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141621700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for BDDL Sufia flat",
+            "match": {
+              "location": "sTepDefinition.Sufia_BDDL.change_the_picture_for_bddl_sufia_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60837200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for BDDL Sufia flat",
+            "match": {
+              "location": "sTepDefinition.Sufia_BDDL.i_verify_text_for_bddl_sufia_flat()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 520606500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for BDDL Sufia flat",
+            "match": {
+              "location": "sTepDefinition.Sufia_BDDL.i_verify_monthly_mortgage_payment_for_bddl_sufia_flat()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 735426500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for BDDL Sufia flat",
+            "match": {
+              "location": "sTepDefinition.Sufia_BDDL.close_the_browser_for_bddl_sufia_flat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test BDDL Sufia feature",
+    "description": "",
+    "id": "test-bddl-sufia-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Sufia_BDDL.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:48.712Z",
+        "line": 4,
+        "name": "Test swan dilara apartment scenario",
+        "description": "",
+        "id": "test-swan-dilara-apartment-feature;test-swan-dilara-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6474520100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open swan dilara apartment page",
+            "match": {
+              "location": "sTepDefinition.SwanDilara.i_open_swan_dilara_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 178522500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for swan dilara apartment",
+            "match": {
+              "location": "sTepDefinition.SwanDilara.change_the_picture_for_swan_dilara_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 72805300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for swan dilara apartment",
+            "match": {
+              "location": "sTepDefinition.SwanDilara.i_verify_text_for_swan_dilara_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 276256800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for swan dilara apartment",
+            "match": {
+              "location": "sTepDefinition.SwanDilara.i_verify_monthly_mortgage_payment_for_swan_dilara_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 715622700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for swan dilara apartment",
+            "match": {
+              "location": "sTepDefinition.SwanDilara.close_the_browser_for_swan_dilara_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test swan dilara apartment feature",
+    "description": "",
+    "id": "test-swan-dilara-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/SwanDilara.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:22:56.445Z",
+        "line": 4,
+        "name": "Test Swan Mostofa apartment scenario",
+        "description": "",
+        "id": "test-swan-mostofa-apartment-feature;test-swan-mostofa-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4590282400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Swan Mostofa apartment page",
+            "match": {
+              "location": "sTepDefinition.SwanMostofa.i_open_swan_mostofa_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 165556500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Swan Mostofa apartment",
+            "match": {
+              "location": "sTepDefinition.SwanMostofa.change_the_picture_for_swan_mostofa_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32913000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Swan Mostofa apartment",
+            "match": {
+              "location": "sTepDefinition.SwanMostofa.i_verify_text_for_swan_mostofa_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 348069000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Swan Mostofa apartment",
+            "match": {
+              "location": "sTepDefinition.SwanMostofa.i_verify_monthly_mortgage_payment_for_swan_mostofa_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 737950500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Swan Mostofa apartment",
+            "match": {
+              "location": "sTepDefinition.SwanMostofa.close_the_browser_for_swan_mostofa_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Swan Mostofa apartment feature",
+    "description": "",
+    "id": "test-swan-mostofa-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/SwanMostofa.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:23:02.334Z",
+        "line": 4,
+        "name": "Test Swan Rajia apartment scenario",
+        "description": "",
+        "id": "test-swan-rajia-apartment-feature;test-swan-rajia-apartment-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3962450500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Swan Rajia apartment page",
+            "match": {
+              "location": "sTepDefinition.RajiaSwan.i_open_swan_rajia_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 280980300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for BSwan Rajia apartment",
+            "match": {
+              "location": "sTepDefinition.RajiaSwan.change_the_picture_for_b_swan_rajia_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30915800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Swan Rajia apartment",
+            "match": {
+              "location": "sTepDefinition.RajiaSwan.i_verify_text_for_swan_rajia_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 398934900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Swan Rajia apartment",
+            "match": {
+              "location": "sTepDefinition.RajiaSwan.i_verify_monthly_mortgage_payment_for_swan_rajia_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 729639000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Swan Rajia apartment",
+            "match": {
+              "location": "sTepDefinition.RajiaSwan.close_the_browser_for_swan_rajia_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Swan Rajia apartment feature",
+    "description": "",
+    "id": "test-swan-rajia-apartment-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/SwanRajia.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:23:07.751Z",
+        "line": 4,
+        "name": "Test Triplex house scenario",
+        "description": "",
+        "id": "test-triplex-house-feature;test-triplex-house-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3810945800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Triplex house page",
+            "match": {
+              "location": "sTepDefinition.TriplexHouse.i_open_triplex_house_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 287863200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Triplex house",
+            "match": {
+              "location": "sTepDefinition.TriplexHouse.change_the_picture_for_triplex_house()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99731400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for Triplex house",
+            "match": {
+              "location": "sTepDefinition.TriplexHouse.i_verify_text_for_triplex_house()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 357046000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Triplex house",
+            "match": {
+              "location": "sTepDefinition.TriplexHouse.i_verify_monthly_mortgage_payment_for_triplex_house()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 716241700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for Triplex house",
+            "match": {
+              "location": "sTepDefinition.TriplexHouse.close_the_browser_for_triplex_house()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Triplex house feature",
+    "description": "",
+    "id": "test-triplex-house-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TriplexHouse.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-07T17:23:13.034Z",
+        "line": 4,
+        "name": "Test Uttar Badda scenario",
+        "description": "",
+        "id": "test-uttar-badda-feature;test-uttar-badda-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4645230100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Uttar Badda page",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.i_open_uttar_badda_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 154622800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for Uttar Badda",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.change_the_picture_for_uttar_badda()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63411400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text in Uttar Badda",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.i_verify_text_in_uttar_badda()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 302179300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for Uttar Badda",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.i_verify_monthly_mortgage_payment_for_uttar_badda()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 799860400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate leave a reply for Uttar Badda",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.i_validate_leave_a_reply_for_uttar_badda()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 755957200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close the browser for Uttar Badda",
+            "match": {
+              "location": "sTepDefinition.UttarBadda.close_the_browser_for_uttar_badda()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Test Uttar Badda feature",
+    "description": "",
+    "id": "test-uttar-badda-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/UttarBadda.feature",
+    "tags": []
+  }
+]

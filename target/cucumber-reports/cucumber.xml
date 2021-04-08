@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="30" time="219.485">
+<testcase classname="Test Al Kaif feature" name="Test Al Kaif flat scenario" time="7.183">
+<system-out><![CDATA[Given I open Al Kaif flat page..............................................passed
+And change the picture for Al Kaif flat.....................................passed
+When I verify text for Al Kaif flat.........................................passed
+And I verify monthly mortgage payment for Al Kaif flat......................passed
+Then close the browser for Al Kaif flat.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test alif ail feature" name="Test alif ail flat scenario" time="5.254">
+<system-out><![CDATA[Given I open alif ail flat page.............................................passed
+And change the picture for alif ail flat....................................passed
+When I verify text for alif ail flat........................................passed
+And I verify monthly mortgage payment for alif ail flat.....................passed
+Then close the browser for alif ail flat....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Arsi Nagar Bosila feature" name="Test Arsi Nagar Bosila scenario" time="6.314">
+<system-out><![CDATA[Given I open Arsi Nagar Bosila..............................................passed
+When I verify text in Arsi Nagar Bosila.....................................passed
+And I verify monthly mortgage payment for Arsi Nagar Bosila.................passed
+Then I validate leave a reply for Arsi Nagar Bosila.........................passed
+And close the browser for Arsi Nagar Bosila.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test BDDL Reaz Bag feature" name="Test BDDL Reaz Bag flat scenario" time="6.082">
+<system-out><![CDATA[Given I open BDDL Reaz Bag flat page........................................passed
+And change the picture for BDDL Reaz Bag flat...............................passed
+When I verify text for BDDL Reaz Bag flat...................................passed
+And I verify monthly mortgage payment for BDDL Reaz Bag flat................passed
+Then close the browser for BDDL Reaz Bag flat...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Banani Lake apartment feature" name="Test Banani Lake apartment scenario" time="6.727">
+<system-out><![CDATA[Given I open Banani Lake apartment..........................................passed
+And change the picture for Banani Lake apartment............................passed
+When I verify text in Banani Lake apartment.................................passed
+And I verify monthly mortgage payment for Banani Lake apartment.............passed
+Then I validate leave a reply for Banani Lake apartment.....................passed
+And close the browser for Banani Lake apartment.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Banani Ready flat feature" name="Test Banani Ready flat scenario" time="6.452">
+<system-out><![CDATA[Given I open Banani Ready flat page.........................................passed
+And change the picture for Banani Ready flat................................passed
+When I verify text for Banani Ready flat....................................passed
+And I verify monthly mortgage payment for Banani Ready flat.................passed
+Then close the browser for Banani Ready flat................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test commercial building feature" name="Test commercial building scenario" time="5.33">
+<system-out><![CDATA[Given I open commercial building page.......................................passed
+And change the picture for commercial building..............................passed
+When I verify text for commercial building..................................passed
+And I verify monthly mortgage payment for commercial building...............passed
+Then close the browser for commercial building..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test dreamway Icon tower feature" name="Test dreamway Icon tower scenario" time="23.953">
+<system-out><![CDATA[Given I open dreamway Icon tower page.......................................passed
+And change the picture for dreamway Icon tower..............................passed
+When I verify text for dreamway Icon tower..................................passed
+And I verify monthly mortgage payment for dreamway Icon tower...............passed
+Then close the browser for dreamway Icon tower..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Eldorado apartment feature" name="Test Eldorado apartment scenario" time="15.048">
+<system-out><![CDATA[Given I open Eldorado apartment page........................................passed
+And change the picture for Eldorado apartment...............................passed
+When I verify text for Eldorado apartment...................................passed
+And I verify monthly mortgage payment for Eldorado apartment................passed
+Then close the browser for Eldorado apartment...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test find your home feature" name="Test find home scenario" time="6.519">
+<system-out><![CDATA[Given I open buyrentbd website..............................................passed
+When I validate all the find your home option...............................passed
+Then I close the browser....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test footer feature" name="Test footer scenario" time="4.628">
+<system-out><![CDATA[Given I open website for footer.............................................passed
+When I verify property type.................................................passed
+And recent posts............................................................passed
+And categories..............................................................passed
+Then contract info..........................................................passed
+And close website for footer check..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test BDDL gold place feature" name="Test BDDL gold place flat scenario" time="15.718">
+<system-out><![CDATA[Given I open BDDL gold place flat page......................................passed
+And change the picture for BDDL gold place flat.............................passed
+When I verify text for BDDL gold place flat.................................passed
+And I verify monthly mortgage payment for BDDL gold place flat..............passed
+Then close the browser for BDDL gold place flat.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Janata Housing feature" name="Test Janata Housing scenario" time="6.786">
+<system-out><![CDATA[Given I open Janata Housing.................................................passed
+And change the picture for Janata Housing...................................passed
+When I verify text in Janata Housing........................................passed
+And I verify monthly mortgage payment for Janata Housing....................passed
+Then I validate leave a reply for Janata Housing............................passed
+And close the browser for Janata Housing....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test landing page text feature" name="Test landing page scenario" time="5.527">
+<system-out><![CDATA[Given I open buyrentd homepage..............................................passed
+When I verify vission text..................................................passed
+And mission text............................................................passed
+Then I close the website....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test latest news in home page feature" name="Test latest news scenario" time="4.802">
+<system-out><![CDATA[Given I open the buyrebtbd homepage news....................................passed
+When I verify latest news text..............................................passed
+And verify text for realestate housing association..........................passed
+And The ultimate real estate................................................passed
+Then I verify rent vs buy...................................................passed
+And close the website after latest verification done........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test let us call you feature" name="Test let us call you scenario" time="5.361">
+<system-out><![CDATA[Given I open website........................................................passed
+When I enter name...........................................................passed
+And email...................................................................passed
+And phone number............................................................passed
+And type message............................................................passed
+Then I validate the submit button...........................................passed
+And close the webpage.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test BDDL Lily feature" name="Test BDDL Lily flat scenario" time="6.124">
+<system-out><![CDATA[Given I open BDDL Lily flat page............................................passed
+And change the picture for BDDL Lily flat...................................passed
+When I verify text for BDDL Lily flat.......................................passed
+And I verify monthly mortgage payment for BDDL Lily flat....................passed
+Then close the browser for BDDL Lily flat...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Max ADN Apartment feature" name="Test Max ADN Apartment scenario" time="9.474">
+<system-out><![CDATA[Given I open Max ADN Apartment page.........................................passed
+And change the picture for Max ADN Apartment................................passed
+When I verify text for Max ADN Apartment....................................passed
+And I verify monthly mortgage payment for Max ADN Apartment.................passed
+Then close the browser for Max ADN Apartment................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Title North Breeze feature" name="Test North Breeze scenario" time="5.967">
+<system-out><![CDATA[Given I open North Breeze page..............................................passed
+When I verify text in North Breeze..........................................passed
+And I verify monthly mortgage payment for North Breeze......................passed
+Then I validate leave a reply for North Breeze..............................passed
+And close the browser for North Breeze......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test queen haque apartment feature" name="Test queen haque apartment scenario" time="5.119">
+<system-out><![CDATA[Given I open queen haque apartment page.....................................passed
+And change the picture for queen haque apartment............................passed
+When I verify text for queen haque apartment................................passed
+And I verify monthly mortgage payment for queen haque apartment.............passed
+Then close the browser for queen haque apartment............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test three bed ready apartment feature" name="Test three bed ready apartment scenario" time="6.742">
+<system-out><![CDATA[Given I open three bed ready apartment page.................................passed
+And change the picture......................................................passed
+When I verify text..........................................................passed
+And I verify monthly mortgage payment.......................................passed
+Then I validate leave a reply...............................................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test ready flat feature" name="Test ready flat scenario" time="5.925">
+<system-out><![CDATA[Given I open ready flat page................................................passed
+And change the picture for ready flat.......................................passed
+When I verify text in ready flat............................................passed
+And I verify monthly mortgage payment for ready flat........................passed
+Then I validate leave a reply for ready flat................................passed
+And close the browser for ready flat........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Rossella apartment feature" name="Test Rossella flat scenario" time="6.489">
+<system-out><![CDATA[Given I open BDDL Rossella flat page........................................passed
+And change the picture for BDDL Rossella flat...............................passed
+When I verify text for BDDL Rossella flat...................................passed
+And I verify monthly mortgage payment for BDDL Rossella flat................passed
+Then close the browser for BDDL Rossella flat...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test south asian feature" name="Test south asian flat scenario" time="5.107">
+<system-out><![CDATA[Given I open south asian flat page..........................................passed
+When I verify text for south asian flat.....................................passed
+And I verify monthly mortgage payment for south asian flat..................passed
+Then close the browser for south asian flat.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test BDDL Sufia feature" name="Test BDDL Sufia flat scenario" time="5.004">
+<system-out><![CDATA[Given I open BDDL Sufia flat page...........................................passed
+And change the picture for BDDL Sufia flat..................................passed
+When I verify text for BDDL Sufia flat......................................passed
+And I verify monthly mortgage payment for BDDL Sufia flat...................passed
+Then close the browser for BDDL Sufia flat..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test swan dilara apartment feature" name="Test swan dilara apartment scenario" time="7.721">
+<system-out><![CDATA[Given I open swan dilara apartment page.....................................passed
+And change the picture for swan dilara apartment............................passed
+When I verify text for swan dilara apartment................................passed
+And I verify monthly mortgage payment for swan dilara apartment.............passed
+Then close the browser for swan dilara apartment............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Swan Mostofa apartment feature" name="Test Swan Mostofa apartment scenario" time="5.875">
+<system-out><![CDATA[Given I open Swan Mostofa apartment page....................................passed
+And change the picture for Swan Mostofa apartment...........................passed
+When I verify text for Swan Mostofa apartment...............................passed
+And I verify monthly mortgage payment for Swan Mostofa apartment............passed
+Then close the browser for Swan Mostofa apartment...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Swan Rajia apartment feature" name="Test Swan Rajia apartment scenario" time="5.404">
+<system-out><![CDATA[Given I open Swan Rajia apartment page......................................passed
+And change the picture for BSwan Rajia apartment............................passed
+When I verify text for Swan Rajia apartment.................................passed
+And I verify monthly mortgage payment for Swan Rajia apartment..............passed
+Then close the browser for Swan Rajia apartment.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Triplex house feature" name="Test Triplex house scenario" time="5.273">
+<system-out><![CDATA[Given I open Triplex house page.............................................passed
+And change the picture for Triplex house....................................passed
+When I verify text for Triplex house........................................passed
+And I verify monthly mortgage payment for Triplex house.....................passed
+Then close the browser for Triplex house....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Uttar Badda feature" name="Test Uttar Badda scenario" time="6.723">
+<system-out><![CDATA[Given I open Uttar Badda page...............................................passed
+And change the picture for Uttar Badda......................................passed
+When I verify text in Uttar Badda...........................................passed
+And I verify monthly mortgage payment for Uttar Badda.......................passed
+Then I validate leave a reply for Uttar Badda...............................passed
+And close the browser for Uttar Badda.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
